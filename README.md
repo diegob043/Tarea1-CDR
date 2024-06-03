@@ -6,11 +6,11 @@ Felipe Cifuentes
 
 # Cuatro en Línea
 
-Cuatro en Línea es un juego de mesa para dos jugadores distribuido por Hasbro, en el que se introducen fichas en un tablero vertical con el objetivo de alinear cuatro fichas consecutivas de un mismo color. Fue creado en 1974. El objetivo del juego es alinear cuatro fichas sobre un tablero formado por seis filas y siete columnas. Cada jugador dispone de 21 fichas de un color (por lo general, rojas o amarillas). Por turnos, los jugadores deben introducir una ficha en la columna que prefieran (siempre que no esté completa) y esta caerá a la posición más baja. Gana la partida el primero que consiga alinear cuatro fichas consecutivas de un mismo color en horizontal, vertical o diagonal. Si todas las columnas están llenas pero nadie ha hecho una fila válida, hay empate.
+"Cuatro en Línea" es un juego de mesa distribuido por Hasbro para dos jugadores, ideado en 1974. Su dinámica es simple pero estratégica: los jugadores colocan fichas de su color en un tablero vertical de seis filas por siete columnas, con el objetivo de ser el primero en alinear cuatro fichas del mismo color en horizontal, vertical o diagonal. Cada jugador tiene 21 fichas de un color, usualmente rojas o amarillas. Por turnos, los jugadores colocan una ficha en la columna que elijan (siempre que no esté llena), y esta cae hasta la posición más baja disponible en esa columna. Si todas las columnas están llenas pero ningún jugador ha logrado una alineación, la partida termina en empate. Es un juego que combina estrategia, anticipación y habilidad para bloquear al oponente mientras se busca la propia victoria.
 
-Este proyecto implementa el juego Cuatro en Línea mediante el modelo Cliente/Servidor en C++ utilizando sockets.
+Proyecto implementa el juego Cuatro en Línea mediante el modelo Cliente/Servidor en C++ utilizando sockets.
 
-## Requisitos
+## Requisitos/Requerimientos
 
 - Sistema operativo: Linux (se ha probado en Ubuntu)
 - Compilador: g++ (GCC)
